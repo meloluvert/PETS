@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1694776839 source:/var/www/Pets/main.cpp
+	"Pets.h"
+
+1694773647 /var/www/Pets/Pets.h
+	<iostream>
+
+1694777157 source:/var/www/Pets/Pets.cpp
+	"Pets.h"
+
+1695154665 source:/var/www/listaaaa-main/main.cpp
+	"Pets.h"
+
+1695153482 /var/www/listaaaa-main/Pets.h
+	<iostream>
+
+1695154997 source:/var/www/listaaaa-main/Pets.cpp
+	"Pets.h"
+
